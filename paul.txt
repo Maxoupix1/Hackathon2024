@@ -1,0 +1,1 @@
+j'ai quelques données dans mon dataset qui sont isolés (none, A, none par exemple) cependant dans la réalité c'est pas comme cela que ca se passe. En effet, est-il possible de pénaliser ce type de prédiction ?
